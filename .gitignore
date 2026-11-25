@@ -12,6 +12,12 @@ wheels/
 # Local tests
 /video
 
+# Inference test results
+/runs/*
+
+# Test onnx CUDA provider
+inspect1.py
+
 # Virtual Environments
 .env
 .envrc
