@@ -8,6 +8,7 @@ wheels/
 
 # Model files
 /uxo_detection/models
+/models
 
 # Local tests
 /video
@@ -17,6 +18,9 @@ wheels/
 
 # Test onnx CUDA provider
 inspect1.py
+
+# Quantize export
+export.py
 
 # Virtual Environments
 .env
